@@ -1,1 +1,2 @@
-require('./src/config/server.js')
+require('./src/config/server')
+require('./src/config/database')
